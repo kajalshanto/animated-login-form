@@ -5,7 +5,7 @@
 ### Anyone can see password before submit 
 
 ## Technolgy Used:
-### -> HTNL5
+### -> HTML5
 ### -> CSS3
 ### -> Javascript
 
