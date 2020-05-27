@@ -5,10 +5,11 @@
 ### Anyone can see password before submit 
 
 ## Technolgy Used:
-### HTNL5
-### CSS3
-### Javascript
+### -> HTNL5
+### -> CSS3
+### -> Javascript
 
 ## Project image: 
+![alt text](https://github.com/kajalshanto/animated-login-form/blob/master/project-image.png)
 
 
